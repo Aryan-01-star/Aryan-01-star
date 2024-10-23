@@ -1,5 +1,7 @@
 <h2 align="left">Hi 👋! My name is Aryan and I'm a Computer Science Engineer</h2>
-
+<a href="https://holopin.io/@aryan01star">
+  <img src="https://holopin.me/aryan01star" alt="An image of @aryan01star's Holopin badges" />
+</a>
 ###
 
 <div align="left">
