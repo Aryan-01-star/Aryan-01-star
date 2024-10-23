@@ -2,8 +2,7 @@
 <a href="https://holopin.io/@aryan01star">
   <img src="https://holopin.me/aryan01star" alt="An image of @aryan01star's Holopin badges" />
 </a>
-###
-
+<br/>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="32" alt="figma logo"  />
   <img width="10" />
