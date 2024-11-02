@@ -37,7 +37,7 @@
 
 ### 🏆 Badges Earned
 <p align="left">
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" alt="Postman Badge" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="135px" height="135px" alt="Postman Badge" />
 </p>
 
 ### 📛 Holopin Badges
