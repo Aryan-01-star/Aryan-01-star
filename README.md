@@ -1,12 +1,12 @@
 <div align="center">
-<img src="./assets/hero-banner.svg" height="90%" width="100%" alt="Aryan Kumar — Building software that scales" />
+<img src="./assets/hero-banner.svg" width="100%" alt="Aryan Kumar — Building software that scales" />
 </div>
 
 
 <p align="center">
-<h4>Hi, I'm Aryan</h4>
-<i>A Software Developer, developing products that feels as professional<br/>
-and well engineered as a Rhodium. Welcome you all to my corner of GitHub.</i>
+<h4>Hey there, I'm Aryan</h4>
+<i>A Software Developer, developing products that feel as professional<br/>
+and well-engineered as a Rhodium. Welcome you all to my corner of GitHub.</i>
 </p>
 
 <br/>
@@ -14,17 +14,15 @@ and well engineered as a Rhodium. Welcome you all to my corner of GitHub.</i>
 <h5>▪ &nbsp;▪ &nbsp;&nbsp;TECH STACK</h5>
 
 <p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java" />
+  <img width="18" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="Figma" />
   <img width="18" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL" />
   <img width="18" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React" />
-  <img width="18" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="30" alt="Material UI" />
   <img width="18" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
-  <img width="18" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java" />
   <img width="18" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="C" />
   <img width="18" />
@@ -37,6 +35,8 @@ and well engineered as a Rhodium. Welcome you all to my corner of GitHub.</i>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="Bootstrap" />
   <img width="18" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3" />
+  <img width="18" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React" />
   <img width="18" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="Spring" />
 </p>
