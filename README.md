@@ -1,12 +1,12 @@
 <div align="center">
-<img src="./assets/hero-banner.svg" width="100%" alt="Aryan Kumar — Building software that scales" />
+<img src="./assets/hero-banner.svg" height="90%" width="100%" alt="Aryan Kumar — Building software that scales" />
 </div>
 
-<br/>
 
 <p align="center">
-<i>Software Developer designing full‑stack products that feel as clear<br/>
-as they are well engineered. Welcome to my corner of GitHub.</i>
+<h4>Hi, I'm Aryan</h4>
+<i>A Software Developer, developing products that feels as professional<br/>
+and well engineered as a Rhodium. Welcome you all to my corner of GitHub.</i>
 </p>
 
 <br/>
@@ -40,8 +40,6 @@ as they are well engineered. Welcome to my corner of GitHub.</i>
   <img width="18" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="Spring" />
 </p>
-
-<br/>
 
 <img src="./assets/ribbon-divider.svg" width="100%" alt="" />
 
