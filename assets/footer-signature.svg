@@ -1,0 +1,27 @@
+<svg width="1600" height="360" viewBox="0 0 1600 360" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1600" height="360" fill="#0a0a0b"/>
+
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="0.1s" dur="0.6s" fill="freeze"/>
+    <text x="800" y="90" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="15" letter-spacing="4" font-weight="600" fill="#9a9a9a">&#9642;&#160;&#9642;&#160;&#160;&#160;LET'S&#160;BUILD&#160;SOMETHING&#160;TOGETHER</text>
+  </g>
+
+  <line x1="80" y1="120" x2="1520" y2="120" stroke="#ffffff" stroke-opacity="0.09" stroke-width="1"
+        stroke-dasharray="1440" stroke-dashoffset="1440">
+    <animate attributeName="stroke-dashoffset" from="1440" to="0" begin="0.35s" dur="1s" fill="freeze" calcMode="spline" keySplines="0.16 1 0.3 1"/>
+  </line>
+
+  <g transform="translate(0,10)" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="0.7s" dur="0.7s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" from="0 10" to="0 0" begin="0.7s" dur="0.7s" fill="freeze" calcMode="spline" keySplines="0.16 1 0.3 1"/>
+    <text x="800" y="300" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="150" font-weight="800" letter-spacing="2" fill="none" stroke="#f2f2f2" stroke-width="1.6">
+      ARYAN&#160;KUMAR
+      <animate attributeName="stroke-opacity" values="0.25;0.55;0.25" dur="4s" begin="1.4s" repeatCount="indefinite"/>
+    </text>
+  </g>
+
+  <line x1="80" y1="330" x2="1520" y2="330" stroke="#ffffff" stroke-opacity="0.09" stroke-width="1"
+        stroke-dasharray="1440" stroke-dashoffset="1440">
+    <animate attributeName="stroke-dashoffset" from="1440" to="0" begin="0.9s" dur="1s" fill="freeze" calcMode="spline" keySplines="0.16 1 0.3 1"/>
+  </line>
+</svg>

@@ -1,0 +1,19 @@
+<svg width="1600" height="90" viewBox="0 0 1600 90" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1600" height="90" fill="#0a0a0b"/>
+  <g transform="rotate(-2.2 800 45)">
+    <rect x="-40" y="30" width="1680" height="34" fill="#141416" stroke="#ffffff" stroke-opacity="0.08"/>
+    <clipPath id="ribbonClip">
+      <rect x="-40" y="28" width="1680" height="38"/>
+    </clipPath>
+    <g clip-path="url(#ribbonClip)">
+      <g>
+        <animateTransform attributeName="transform" type="translate" from="0 0" to="-700 0" dur="14s" repeatCount="indefinite" calcMode="linear"/>
+        <text x="-700" y="52" font-family="Helvetica, Arial, sans-serif" font-size="14" letter-spacing="4" font-weight="600" fill="#c9c9c9" textLength="700" lengthAdjust="spacingAndGlyphs">FULL&#8209;STACK&#160;DEV&#160;&#8226;&#160;CLEAN&#160;CODE&#160;&#8226;&#160;OPEN&#160;SOURCE&#160;&#8226;</text>
+        <text x="0" y="52" font-family="Helvetica, Arial, sans-serif" font-size="14" letter-spacing="4" font-weight="600" fill="#c9c9c9" textLength="700" lengthAdjust="spacingAndGlyphs">FULL&#8209;STACK&#160;DEV&#160;&#8226;&#160;CLEAN&#160;CODE&#160;&#8226;&#160;OPEN&#160;SOURCE&#160;&#8226;</text>
+        <text x="700" y="52" font-family="Helvetica, Arial, sans-serif" font-size="14" letter-spacing="4" font-weight="600" fill="#c9c9c9" textLength="700" lengthAdjust="spacingAndGlyphs">FULL&#8209;STACK&#160;DEV&#160;&#8226;&#160;CLEAN&#160;CODE&#160;&#8226;&#160;OPEN&#160;SOURCE&#160;&#8226;</text>
+        <text x="1400" y="52" font-family="Helvetica, Arial, sans-serif" font-size="14" letter-spacing="4" font-weight="600" fill="#c9c9c9" textLength="700" lengthAdjust="spacingAndGlyphs">FULL&#8209;STACK&#160;DEV&#160;&#8226;&#160;CLEAN&#160;CODE&#160;&#8226;&#160;OPEN&#160;SOURCE&#160;&#8226;</text>
+        <text x="2100" y="52" font-family="Helvetica, Arial, sans-serif" font-size="14" letter-spacing="4" font-weight="600" fill="#c9c9c9" textLength="700" lengthAdjust="spacingAndGlyphs">FULL&#8209;STACK&#160;DEV&#160;&#8226;&#160;CLEAN&#160;CODE&#160;&#8226;&#160;OPEN&#160;SOURCE&#160;&#8226;</text>
+      </g>
+    </g>
+  </g>
+</svg>
