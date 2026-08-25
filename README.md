@@ -47,7 +47,7 @@ as they are well engineered. Welcome to my corner of GitHub.</i>
 
 <br/>
 
-<h5>▪ &nbsp;▪ &nbsp;&nbsp;02&nbsp;&nbsp;—&nbsp;&nbsp;GITHUB ACTIVITY</h5>
+<h5>▪ &nbsp;▪ &nbsp;&nbsp;02&nbsp;&nbsp;—&nbsp;&nbsp;GITHUB ANALYTICS</h5>
 
 <div align="center">
   <a href="https://git.io/streak-stats">
