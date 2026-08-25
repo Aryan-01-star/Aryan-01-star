@@ -50,8 +50,15 @@ as they are well engineered. Welcome to my corner of GitHub.</i>
 <h5>▪ &nbsp;▪ &nbsp;&nbsp;02&nbsp;&nbsp;—&nbsp;&nbsp;GITHUB ACTIVITY</h5>
 
 <div align="center">
-<img src="https://streak-stats.demolab.com/?user=Aryan-01-star&background=0A0714&border=0A0714&ring=F4F4F3&fire=E8E8E8&currStreakLabel=F4F4F3&currStreakNum=F4F4F3&sideNums=CFCFCF&sideLabels=9A9A9A&dates=707070&hide_border=true" width="80%" alt="GitHub streak stats" />
+  <a href="https://git.io/streak-stats">
+    <img
+      src="https://streak-stats.demolab.com/?user=Aryan-01-star&background=0A0714&border=0A0714&ring=F4F4F3&fire=E8E8E8&currStreakLabel=F4F4F3&currStreakNum=F4F4F3&sideNums=CFCFCF&sideLabels=9A9A9A&dates=707070&hide_border=true"
+      width="70%"
+      alt="GitHub Streak"
+    />
+  </a>
 </div>
+
 
 <br/>
 
