@@ -94,7 +94,7 @@ as they are well engineered. Welcome to my corner of GitHub.</i>
 
 <br/>
 
-<img src="./assets/footer-signature.svg" width="100%" alt="Aryan Kumar — let's build something together" />
+<img src="./assets/footer-signature.svg" width="100%" alt=" Aryan Kumar — let's build something together" />
 
 <div align="center">
 
